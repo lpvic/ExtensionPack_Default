@@ -1,0 +1,31 @@
+{
+  "name": "extensionpack-default",
+  "displayName": "ExtensionPack_Default",
+  "description": "Extension Pack for Default Profile",
+  "icon": "resources/swfault_icon.png",
+  "version": "0.0.1",
+  "publiser": "lpvic",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "bierner.markdown-checkbox", 
+    "bierner.markdown-emoji", 
+    "bierner.markdown-footnotes", 
+    "bierner.markdown-mermaid", 
+    "bierner.markdown-preview-github-styles", 
+    "bierner.markdown-yaml-preamble", 
+    "gruntfuggly.todo-tree", 
+    "h5web.vscode-h5web", 
+    "janisdd.vscode-edit-csv", 
+    "mhutchie.git-graph", 
+    "ms-vscode.hexeditor", 
+    "oderwat.indent-rainbow", 
+    "tomoki1207.pdf", 
+    "lpvic.slate-blue", 
+    "yzane.markdown-pdf"
+  ]
+}
