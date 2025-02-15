@@ -1,9 +1,9 @@
 {
   "name": "extensionpack-default",
-  "displayName": "ExtensionPack_Default",
+  "displayName": "Default Extension Pack",
   "description": "Extension Pack for Default Profile",
   "icon": "resources/default_icon.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/lpvic/ExtensionPack_Default",
   "publisher": "lpvic",
   "engines": {
